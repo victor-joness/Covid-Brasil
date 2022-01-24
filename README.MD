@@ -8,9 +8,7 @@ Pensa-se que o coronavírus tenha origem zoonótica. A primeira transmissão par
 
 Em 26 de fevereiro de 2020 se confirmou o primeiro caso do covid19 no Brasil. Um brasileiro retornando da Itália, onde a pandemia já tinha alcançado patamares bem preocupantes. Quase 2 anos depois, estamos vivendo um momento histórico, e está literalmente nas nossas mãos o que vai acontecer daqui pra frente.
 
-- Você pode conferir o resultado final do projeto [clicando aqui](https://covidbrasil.surge.sh/).
 
-![Preview](/preview.png)
 
 ## O que aprendi durante esse projeto:
 
